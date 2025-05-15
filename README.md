@@ -4,7 +4,7 @@
 I'm passionate about everything related to data — from scraping and analyzing datasets to uncovering valuable insights. My curiosity drives me to understand how things work under the hood, especially when it comes to Machine Learning and intelligent systems.
 </p>
 
-<img align="right" height="170" src="https://media.giphy.com/media/xUOxf48hQ7bcmx1Uuk/giphy.gif" alt="Naruto thinking" />
+<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgybXV1anduZmhxb2t4Z2VuMzVxaWU1dG1nZGE2emY4NGsyZnRudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif" alt="Naruto gif" />
 
 ---
 
