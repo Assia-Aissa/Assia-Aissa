@@ -1,68 +1,83 @@
-<h2 align="left">Hi 👋! I'm Assia — a Data Science and Big Data student from Morocco 🇲🇦</h2>
+<h2 align="left">Hi 👋 I'm Assia — Data Science & Big Data student 🇲🇦</h2>
 
 <p align="left">
-I'm passionate about everything related to data — from scraping and analyzing datasets to uncovering valuable insights. My curiosity drives me to understand how things work under the hood, especially when it comes to Machine Learning and intelligent systems.
+I focus on building data-driven and AI systems, from raw data processing to deployed machine learning models.
+My core interests are applied Machine Learning, statistical modeling, data analytics, and modern AI systems
+including LLMs, RAG pipelines, and intelligent agents. I value strong fundamentals, mathematical reasoning,
+and production-ready implementations over surface-level experimentation.
 </p>
 
 <img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgybXV1anduZmhxb2t4Z2VuMzVxaWU1dG1nZGE2emY4NGsyZnRudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif" alt="Naruto gif" />
 
 ---
 
-### 🧠 Technologies & Tools I Use
+### 🧠 Core Data & AI Stack
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 </div>
 
-#### 🧰 Libraries & Concepts
+#### Data Science & Machine Learning
 - NumPy · Pandas · Scikit-learn  
-- Machine Learning · Mathematical Modeling  
-- Microservices Architecture · Domain-Driven Design (DDD)  
-- Salesforce Administration & Automation  
+- Statistical Modeling · Feature Engineering · Model Evaluation  
+- Supervised & Unsupervised Learning  
+- Ensemble Methods (Random Forest, XGBoost, CatBoost)  
+- Deep Learning (CNN, LSTM)  
+
+#### AI & Advanced Systems
+- Hugging Face · LangChain  
+- LLMs · RAG pipelines · Vector search (FAISS)  
+- Multi-agent AI systems  
+
+#### Data Analytics & Visualization
+- Tableau (dashboards, KPIs, business insights)  
+- Matplotlib · Seaborn  
+
+#### Big Data & Cloud
+- AWS: S3 · SageMaker · EC2  
+- Hadoop ecosystem  
+- Azure (cloud infrastructure & data workflows)
 
 ---
 
-### 🔭 Currently Working On
-- Building **Salesforce Admin** projects focused on recruitment and HR use cases  
-- Writing blogs to explain **Machine Learning models** using **Scikit-learn** and the **mathematics** behind them  
+### 📌 Projects (Mentioned)
+- AI-powered intrusion detection using ML and deep learning  
+- LLM-based AI tutor with RAG and multi-agent architecture  
+- Sales and customer analytics dashboards with Tableau  
 
 ---
 
-### 💬 Ask Me About
-- Machine Learning (concepts & math behind models)  
-- Salesforce admin customization  
-- Data scraping, wrangling, and visualization  
-- Spring Boot and backend development  
+### 🛠 Engineering Background (Supporting Skills)
+- Java · Spring Boot · Microservices  
+- REST APIs and backend development  
+- Basic front-end for data applications (React, HTML, CSS)
 
 ---
 
-### ✨ Fun Fact
-> I love solving problems... and drinking Moroccan tea 🍵  
-> Also, I’m a huge Naruto fan — I believe in getting stronger one challenge at a time 💪
+### ✍️ Writing & Knowledge Sharing
+- Technical blogs on Machine Learning and AI  
+- Focus on model intuition, evaluation, and real-world pitfalls  
 
 ---
 
-### 📝 Connect With Me
+### 📝 Connect
 
 <div align="left">
   <a href="https://hashnode.com/@assiaelboussanni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hashnode" />
+    <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&color=2962FF&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://medium.com/@assiaelboussanni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium" />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/assia-el-boussanni-4b3a902a9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
