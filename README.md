@@ -14,43 +14,41 @@ and production-ready implementations over surface-level experimentation.
 ### 🧠 Core Data & AI Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <!-- Core Language & Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+
+  <!-- Data Science Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="32" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="32" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="32" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+
+  <!-- Deep Learning -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="32" />
+  <img width="10"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="32" />
+  <img width="10"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="32" />
+  <img width="10"/>
+
+  <!-- Databases & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
 </div>
-
-#### Data Science & Machine Learning
-- NumPy · Pandas · Scikit-learn  
-- Statistical Modeling · Feature Engineering · Model Evaluation  
-- Supervised & Unsupervised Learning  
-- Ensemble Methods (Random Forest, XGBoost, CatBoost)  
-- Deep Learning (CNN, LSTM)  
-
-#### AI & Advanced Systems
-- Hugging Face · LangChain  
-- LLMs · RAG pipelines · Vector search (FAISS)  
-- Multi-agent AI systems  
-
-#### Data Analytics & Visualization
-- Tableau (dashboards, KPIs, business insights)  
-- Matplotlib · Seaborn  
-
-#### Big Data & Cloud
-- AWS: S3 · SageMaker · EC2  
-- Hadoop ecosystem  
-- Azure (cloud infrastructure & data workflows)
 
 ---
 
 ### 📌 Projects (Mentioned)
-- AI-powered intrusion detection using ML and deep learning  
-- LLM-based AI tutor with RAG and multi-agent architecture  
+- AI-powered intrusion detection using Machine Learning and Deep Learning  
+- LLM-based AI tutor using RAG and multi-agent systems  
 - Sales and customer analytics dashboards with Tableau  
 
 ---
@@ -63,7 +61,7 @@ and production-ready implementations over surface-level experimentation.
 ---
 
 ### ✍️ Writing & Knowledge Sharing
-- Technical blogs on Machine Learning and AI  
+- Technical blogs on Data Science, Machine Learning, and AI  
 - Focus on model intuition, evaluation, and real-world pitfalls  
 
 ---
